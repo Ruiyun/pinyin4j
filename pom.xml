@@ -9,7 +9,7 @@
         <version>7</version>
     </parent>
 
-    <groupId>com.belerweb</groupId>
+    <groupId>ruiyun</groupId>
     <artifactId>pinyin4j</artifactId>
     <version>2.5.0</version>
 
